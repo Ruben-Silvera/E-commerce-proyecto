@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Anillo de Oro", "price": 25000, "image": "recursos/Anillo_de_oro.jpg" },
+    { "id": 2, "name": "Collar de Plata", "price": 15000, "image": "recursos/Collar_de_plata.jpg" },
+    { "id": 3, "name": "Pulsera de Diamantes", "price": 500000, "image": "recursos/Pulsera_de_diamante.jpg" },
+    { "id": 4, "name": "Pendientes de Rubí", "price": 300000, "image": "recursos/Pendientes_de_rubies.jpg" },
+    { "id": 5, "name": "Collar de Perlas", "price": 200000, "image": "recursos/Collar_de_perlasa.jpg" },
+    { "id": 6, "name": "Reloj de Oro", "price": 10000, "image": "recursos/Reloj_de_oro.jpg" },
+    { "id": 7, "name": "Brazalete de Esmeraldas", "price": 100000, "image": "recursos/Brazalet_de_esmeraldas.jpg" },
+    { "id": 8, "name": "Anillo de Platino", "price": 70000, "image": "recursos/Anillo_de_platino.jpg" },
+    { "id": 9, "name": "Broche de Zafiros", "price": 410000, "image": "recursos/Broche_de_zafiro.jpg" },
+    { "id": 10, "name": "Gargantilla de Diamantes", "price": 750000, "image": "recursos/Gargantilla_de_diamantes.jpg" }
+]
